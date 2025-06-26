@@ -1,0 +1,1 @@
+# wp_alt_images
